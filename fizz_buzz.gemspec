@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FizzBuzz::VERSION
   spec.authors       = ["Mike Enriquez", "Charlotte Chang", "Aaron Campbell"]
   spec.email         = ["mike@enriquez.me", "charlottechang.ny@gmail.com", "aaronthefff@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "solves fizzbuzz"
+  spec.description   = "created with love from Cleveland Ruby Brigade"
   spec.homepage      = ""
   spec.license       = "MIT"
 
