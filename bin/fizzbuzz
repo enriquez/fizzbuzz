@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'fizz_buzz'
+
+num = ARGV[0]
+
+puts FizzBuzz::Fizzer.fizz num.to_i
